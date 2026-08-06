@@ -91,3 +91,7 @@ python orchestrator/main.py
 
 - 모든 자격 증명은 `.env`(gitignore 처리됨)로 관리하며 코드에 하드코딩하지 않습니다.
 - Kaggle 노트북이 노출하는 FastAPI 엔드포인트(`/analyze`, `/search_kg`, `/report`, `/rag_search`)는 `X-API-Key` 헤더 검증을 거칩니다.
+
+## 트러블슈팅
+
+프로젝트 점검 과정에서 발견/수정한 이슈는 [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)에 정리되어 있습니다.
