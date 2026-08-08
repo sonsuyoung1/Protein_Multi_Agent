@@ -94,5 +94,5 @@ python orchestrator/main.py
 
 ## 트러블슈팅
 
-프로젝트 점검 과정에서 발견/수정한 이슈는 [TROUBLESHOOTING.md](./Troubleshooting.md)에 정리되어 있습니다.
+프로젝트 점검 과정에서 발견/수정한 이슈는 [Troubleshooting.md](./Troubleshooting.md)에 정리되어 있습니다.
 
