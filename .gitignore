@@ -1,0 +1,25 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# backups (may contain old secrets)
+*.bak
+
+# editor / tool-local config
+.vscode/
+.claude/
+
+# os
+.DS_Store
+Thumbs.db
