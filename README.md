@@ -95,3 +95,7 @@ python orchestrator/main.py
 ## 트러블슈팅
 
 프로젝트 점검 과정에서 발견/수정한 이슈는 [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)에 정리되어 있습니다.
+
+## 기여
+
+커밋 메시지 컨벤션 등은 [CONTRIBUTING.md](./CONTRIBUTING.md)를 참고하세요.
